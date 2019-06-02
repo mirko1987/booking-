@@ -1,0 +1,8 @@
+{
+  "name": "recipeapp",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
